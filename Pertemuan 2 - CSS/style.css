@@ -1,0 +1,17 @@
+h1 {
+    background-color: white;
+}
+
+.judul {
+    background-color: aquamarine;
+}
+
+.lorem {
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 25px;
+    margin-right: 30px;
+
+    padding: 25px;
+}
